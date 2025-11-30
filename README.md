@@ -1,4 +1,4 @@
-📘 Calculator Project (Python)
+# 📘 Calculator Project (Python)
 
 A simple command-line Calculator built using Python, developed in Visual Studio Code, version-controlled with Git, and hosted on GitHub.
 This project is created as part of the Tools for Programming, Learning, and Collaboration assignment.
@@ -6,14 +6,14 @@ This project is created as part of the Tools for Programming, Learning, and Coll
 
 ---
 
-📝 Project Title
+# 📝 Project Title
 
 Basic Calculator using Python
 
 
 ---
 
-📖 Project Description
+# 📖 Project Description
 
 This project is a beginner-friendly calculator program that performs basic arithmetic operations:
 
@@ -31,7 +31,7 @@ The main goal is to learn software development workflow using VS Code, Git, GitH
 
 ---
 
-🛠 Installation & Usage Instructions
+# 🛠 Installation & Usage Instructions
 
 ✔ 1. Requirements
 
@@ -54,7 +54,7 @@ python calculator.py
 
 ---
 
-🖼 Screenshots
+# 🖼 Screenshots
 
 
 
@@ -64,7 +64,7 @@ python calculator.py
 
 ---
 
-⭐ Features
+# ⭐ Features
 
 Supports four main arithmetic operations
 
@@ -82,7 +82,7 @@ Clean repository structure with .gitignore
 
 ---
 
-📂 Documentation (Markdown-Based)
+# 📂 Documentation (Markdown-Based)
 
 1. Project Overview
 
@@ -138,7 +138,7 @@ Added screenshots of running the project
 
 ---
 
-🧩 Project Structure (Example)
+# 🧩 Project Structure (Example)
 
 calculator-project/
 │
@@ -155,7 +155,7 @@ calculator-project/
 
 ---
 
-🚀 Future Improvements
+# 🚀 Future Improvements
 
 Add GUI using Tkinter
 
@@ -171,7 +171,7 @@ Add unit tests
 
 ---
 
-🙌 Author
+# 🙌 Author
 
 Ishant Singh
 2501410067
