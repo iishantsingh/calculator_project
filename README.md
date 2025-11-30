@@ -93,7 +93,7 @@ The Calculator Project demonstrates the use of development tools such as VS Code
 
 ## 2. Development Process
 
-###🔹 Step 1 — Code Development
+🔹 Step 1 — Code Development
 
 Created calculator.py
 
@@ -102,7 +102,7 @@ Wrote functions for add, subtract, multiply, and divide
 Tested each feature using VS Code terminal
 
 
-###🔹 Step 2 — Git Setup
+🔹 Step 2 — Git Setup
 
 Commands used:
 
@@ -110,7 +110,7 @@ git init
 git add .
 git commit -m "Initial commit: added calculator program"
 
-###🔹 Step 3 — Added .gitignore
+🔹 Step 3 — Added .gitignore
 
 Included:
 
@@ -121,12 +121,12 @@ _pycache_/
 Environment folders
 
 
-###🔹 Step 4 — Pushed to GitHub
+🔹 Step 4 — Pushed to GitHub
 
 git remote add origin <repo-link>
 git push -u origin main
 
-###🔹 Step 5 — Documentation
+🔹 Step 5 — Documentation
 
 Wrote README.md
 
